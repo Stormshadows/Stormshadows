@@ -4,7 +4,7 @@
          width="45" /> I'm Max Mario</h1>
          
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently.<br>🌱 I’m currently learning more about ReactJS.<br>👯 I’m looking to collaborate.<br>🤔 .<br>💬 .<br>📫 How to reach me: maxmario2001@gmail.com.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
+😄 Pronouns: He/His<br><br>🌱 I’m currently learning more about ReactJS.<br>👯 I’m looking to collaborate.<br>🤔 .<br>💬 .<br>📫 How to reach me: maxmario2001@gmail.com.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
 
 
 ## 🌐 Socials:
