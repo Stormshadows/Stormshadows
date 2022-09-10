@@ -9,16 +9,16 @@
 
 
 
-😄 Pronouns: He/His<br><br>🌱 I’m currently learning more about ReactJS.<br>👯 I’m looking to collaborate.<br>🤔 .<br>💬 .<br>📫 How to reach me: maxmario2001@gmail.com.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
+😄 Pronouns: He/His<br><br>🌱 I’m currently learning more about ReactJS.<br>👯 I’m looking to collaborate.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
 
 
 ## 🌐 Socials:
 <p align="center">
-<a href="https://www.swaaz.dev/" target="blank">
+<a href="https://stormshadows.github.io/" target="blank">
   <img align="center" alt="portfolio" src="https://img.icons8.com/fluent/48/000000/resume-website.png" width="40px" height="40px"/>
   </a>&nbsp; &nbsp;
 
- <a href="https://www.linkedin.com/in/swasthik-shetty-b50928174/" target="blank">
+ <a href="https://www.linkedin.com/in/max--mario//" target="blank">
  <img align="center" alt="Linkedin" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
  </a>&nbsp; &nbsp;
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/max--mario/)  -->
