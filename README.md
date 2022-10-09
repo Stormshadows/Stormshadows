@@ -9,7 +9,7 @@
 
 
 
-😄 Pronouns: He/His<br><br>🌱 I’m currently learning more about ReactJS.<br>👯 I’m looking to collaborate.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
+😄 Pronouns: He/His<br><br>🌱 I’m currently learning more about DSA.<br>👯 I’m looking to collaborate.<br>⚡ Fun fact: I spend almost hours dreaming about nothing.
 
 
 ## 🌐 Socials:
